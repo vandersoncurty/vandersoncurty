@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Bem vindo ao meu github!!</h2>
+<h2 align="left">Olá 👋! Bem vindo ao meu Github!!</h2>
 
 ###
 
@@ -7,6 +7,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vandersoncurty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<br clear="both">
+
+<p align="left"><br><br></p>
+
+###
+
+<img align="right" height="160" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"  />
+
+###
+
+<p align="left">💻 Desenvolvedor Back-end (Principalmente).<br><br>🚀 Estudando novas e belas tecnologias.<br><br>🎮 Esfriando a cabeça no joguinho (pra codar mais depois).<br><br>📚 Sempre aprendendo o que acho mais legal!</p>
+
+###
+
+<br clear="both">
+
+<p align="left"><br></p>
 
 ###
 
@@ -48,11 +67,13 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"  />
+<br clear="both">
 
-###
-
-<p align="left">💻 Desenvolvedor Back-end (Principalmente).<br><br>🚀 Estudando novas e belas tecnologias.<br><br>🎮 Esfriando a cabeça no joguinho (pra codar mais depois).<br><br>📚 Sempre aprendendo o que acho mais legal!</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vandersoncurty/vandersoncurty/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vandersoncurty/vandersoncurty/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vandersoncurty/vandersoncurty/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -75,15 +96,5 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vandersoncurty/vandersoncurty/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vandersoncurty/vandersoncurty/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vandersoncurty/vandersoncurty/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
